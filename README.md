@@ -1,11 +1,13 @@
-# Readme Gen
+# svg logo maker
 
 ![License: Mit](https://img.shields.io/badge/License-Mit-blue.svg)
 
 ## Description
 
-Generate a readme file for any of your projects by filling out the prompts
-![Screenshot](screenshort.png)
+This is an SVG generator that will take in text, shape, and color options to then output an SVG file with the corresponding info.
+## Screenshot
+
+![Screenshot of the command line application](screenshot.png)
 
 ## Table of Contents
 
@@ -22,14 +24,14 @@ Generate a readme file for any of your projects by filling out the prompts
 
   ```bash
     1. Install [Node.js](https://nodejs.org/).
-    2. Download/clone the project files (`index.js`, `package.json`, `utils/generateMarkdown.js`).
+    2. Download/clone the project files
     3. In your terminal, navigate to the project directory and run `npm install` to install the `inquirer` package.
     4. Run the application by typing `node index.js` in the terminal, answer the prompted questions, and a README file will be generated.
   ```
 
 ## 🎯 Usage
 
-[Walkthrough Video](https://drive.google.com/file/d/1k_KeVdbxLvwmwZxBiMPGXdftCNTDelrF/view?usp=sharing)
+[Walkthrough Video](https://drive.google.com/file/d/1hLFbE6-xM31W2A8y8omHFQybiarWa4S_/view?usp=sharing)
 
 1. Open your terminal and run the command `node index.js`.
 2. Answer the series of prompts about your project.
@@ -48,7 +50,7 @@ n/a
 To run tests, use the following command:
 
 ```bash
-n/a
+npm run test
 ```
 
 ## Questions
