@@ -7,7 +7,7 @@
 This is an SVG generator that will take in text, shape, and color options to then output an SVG file with the corresponding info.
 ## Screenshot
 
-![Screenshot of the command line application](screenshot.png)
+![Screenshot of the command line application](svglogo.png)
 
 ## Table of Contents
 
